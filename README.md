@@ -1,9 +1,10 @@
 # DailyProgrammingChallenge
 4-27-2017: Intermediate
-Task: From a given int, find the next largest int
 
-Tools Use: Arrays slicing, recursion
+*Task: From a given int, find the next largest int
 
-Status: failing on int greater than 4 digits
+*Tools Use: Arrays slicing, recursion
 
-Notes: Use functional programming when involving numeric functions
+*Status: failing on int greater than 4 digits
+
+*Notes: Use functional programming when involving numeric functions
