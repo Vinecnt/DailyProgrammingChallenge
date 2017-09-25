@@ -33,7 +33,7 @@ Data Structure:
 easiest way would be to just stored the number into an array
 """
 
-
+#given a int,
 def num_input(num):
     num_list = list(int(i) for i in str(num))
     res_tup = r_digit_left_check(num_list)
@@ -90,4 +90,4 @@ def rest_shuffle(num_array, index):
     return num_array[0:index] + [retrieved_num] + rest_shuffle(num_array[index+1:], index)
 
 
-num_input(1234)
+num_input(235467)
